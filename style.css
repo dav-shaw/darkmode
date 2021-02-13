@@ -1,0 +1,18 @@
+body {
+    font-family: helvetica, sans-serif;
+    text-align: center;
+    margin: 2rem auto;
+    max-width: 300px;
+    padding: 2rem;
+}
+
+select {
+    font-family: helvetica;
+    font-size: 14px;
+    padding: .25rem;
+}
+
+h1 {
+    padding: 1rem;
+    border-bottom: 2px solid black;
+}
